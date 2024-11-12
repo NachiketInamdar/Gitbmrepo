@@ -1,0 +1,14 @@
+C:\Gitbmp\bin\Debug\net8.0\Gitbmp.exe
+C:\Gitbmp\bin\Debug\net8.0\Gitbmp.deps.json
+C:\Gitbmp\bin\Debug\net8.0\Gitbmp.runtimeconfig.json
+C:\Gitbmp\bin\Debug\net8.0\Gitbmp.dll
+C:\Gitbmp\bin\Debug\net8.0\Gitbmp.pdb
+C:\Gitbmp\obj\Debug\net8.0\Gitbmp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Gitbmp\obj\Debug\net8.0\Gitbmp.AssemblyInfoInputs.cache
+C:\Gitbmp\obj\Debug\net8.0\Gitbmp.AssemblyInfo.cs
+C:\Gitbmp\obj\Debug\net8.0\Gitbmp.csproj.CoreCompileInputs.cache
+C:\Gitbmp\obj\Debug\net8.0\Gitbmp.dll
+C:\Gitbmp\obj\Debug\net8.0\refint\Gitbmp.dll
+C:\Gitbmp\obj\Debug\net8.0\Gitbmp.pdb
+C:\Gitbmp\obj\Debug\net8.0\Gitbmp.genruntimeconfig.cache
+C:\Gitbmp\obj\Debug\net8.0\ref\Gitbmp.dll
